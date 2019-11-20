@@ -6,18 +6,13 @@
 4. When you are completely finished, save/add/commit, and then push to your remote!
 5. Reload your fork on GitHub; you should see your changes!
 
----
 
 # Make me a heading size 1
 ### Make me a heading size 3
 
 Put a line BELOW me! 
-------
-
-
-
-
-
+-------
+-------
 Put a line ABOVE me!
 
 * Make
@@ -42,7 +37,7 @@ __Make me bold__
 
 Turn the entire block of code below into a code snippet with HTML syntax highlighting.
 
-```js
+```html
 <ol>
     <li>Item 1</li>
     <li>Item 2</li>
